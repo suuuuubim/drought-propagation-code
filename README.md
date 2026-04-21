@@ -10,6 +10,7 @@ The input gridded drought-index time series are **not included in this repositor
 
 ## Repository structure
 
+```text
 drought-propagation-code/
 ├─ scripts/
 │  ├─ RUN1_DP_S.m
